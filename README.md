@@ -1,1 +1,1 @@
-# Medical-care
+# MedicalCare

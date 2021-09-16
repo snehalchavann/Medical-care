@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Sebamed Baby Wash Extra Soft - 400ml",
+    "image": "https://cdn01.pharmeasy.in/dam/products_otc/265098/sebamed-extra-soft-baby-wash-bottle-of-400-ml-2-1606505629.jpg",
+    "off": "70",
+    "price": 276.5,
+    "cutPrice": 276.5,
+    "rating": 3,
+    "id": "20"
+  },
+  {
+    "name": "Enterogermina Diarrhea Care Capsules Strip Of 4 's",
+    "image": "https://cdn01.pharmeasy.in/dam/products_otc/067886/enterogermina-diarrhea-care-capsules-strip-of-4-s-2-1606505627.jpg",
+    "off": "70",
+    "price": 276.5,
+    "cutPrice": 276.5,
+    "rating": 1,
+    "id": "21"
+  },
+  {
+    "name": "Selsun Shampoo 120ml",
+    "image": "https://cdn01.pharmeasy.in/dam/products_otc/157655/selsun-shampoo-120ml-2-1603774486.jpg",
+    "off": "70",
+    "price": 276.5,
+    "cutPrice": 276.5,
+    "rating": 2,
+    "id": "13"
+  },
+  {
+    "name": "Whisper Ultra Night Sanitary Pads Xxl Plus - 6 Pads",
+    "image": "https://cdn01.pharmeasy.in/dam/products_otc/T93798/whisper-ultra-night-sanitary-pads-xxl-plus-6-pads-2-1600955027.jpg",
+    "off": "70",
+    "price": 276.5,
+    "cutPrice": 276.5,
+    "rating": 4,
+    "id": "14"
+  },
+  {
+    "name": "Liveasy Wellness Immuno Protein - Adult Protein Drink With Vitamins & Minerals - Provides Energy & Vitality - Jar Of 500 Gram",
+    "image": "https://cdn01.pharmeasy.in/dam/products_otc/F54285/liveasy-wellness-immuno-protein-adult-protein-drink-with-vitamins-minerals-provides-energy-vitality-jar-of-500-gram-2-1598018537.jpg",
+    "off": "70",
+    "price": 276.5,
+    "cutPrice": 276.5,
+    "rating": 5,
+    "id": "10"
+  },
+  {
+    "name": "Protinex Vanilla Nutrition Drink Tin Of 400 G",
+    "image": "https://cdn01.pharmeasy.in/dam/products_otc/144664/protinex-vanilla-nutrition-drink-tin-of-400-g-2-1613553202.jpg",
+    "off": "70",
+    "price": 276.5,
+    "cutPrice": 276.5,
+    "rating": 2,
+    "id": "11"
+  },
+  {
+    "name": "I Can Pregnancy Test Kit",
+    "image": "https://cdn01.pharmeasy.in/dam/products_otc/226634/i-can-pregnancy-test-kit-1-1612421368.jpg",
+    "off": "10",
+    "price": 125.5,
+    "cutPrice": 276.5,
+    "rating": 3,
+    "id": "8"
+  },
+  {
+    "name": "Veriq Glucometer Kit (with 10 Strips)",
+    "image": "https://cdn01.pharmeasy.in/dam/products_otc/C64811/veriq-glucometer-kit-with-10-strips-2-1604484296.jpg",
+    "off": "30",
+    "price": 321.5,
+    "cutPrice": 276.5,
+    "rating": 1,
+    "id": "9"
+  }
+]

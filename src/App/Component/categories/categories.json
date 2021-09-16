@@ -1,0 +1,251 @@
+[
+  {
+    "name": "Covid Essentials",
+    "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/fe6c9bc1c4963ce5ace7554646ecb854",
+    "off": "Upto 70",
+    "data": [
+      {
+        "name": "Baidyanath Chyawanprash Special Health Food Jar Of 500 G",
+        "image": "https://cdn01.pharmeasy.in/dam/products_otc/I41646/baidyanath-chyawanprash-special-health-food-jar-of-500-g-2-1614878877.jpg",
+        "off": "70",
+        "price": 276.50,
+        "cutPrice": 276.50,
+        "rating": 4,
+        "id": "1"
+      },
+      {
+        "name": "Savlon Disinfectant Liquid - 500 Ml",
+        "image": "https://cdn01.pharmeasy.in/dam/products_otc/W84040/savlon-disinfectant-liquid-500-ml-2-1613733059.jpg",
+        "off": "70",
+        "price": 276.50,
+        "cutPrice": 276.50,
+        "rating": 4,
+        "id": "2"
+      },
+      {
+        "name": "Becozym C Forte ( Vitamin B Complex + Biotin + Vitamin C )- Strip Of 15 Tablets",
+        "image": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2-1605104971.jpg",
+        "off": "10",
+        "price": 125.50,
+        "cutPrice": 276.50,
+        "rating": 4,
+        "id": "3"
+      },
+      {
+        "name": "Liveasy Wellness Diabetic Protein - Blood Sugar & Weight Management -french Vanilla 400g Jar",
+        "image": "https://cdn01.pharmeasy.in/dam/products_otc/E07034/liveasy-wellness-diabetic-protein-blood-sugar-weight-management-french-vanilla-400g-jar-2-1601371906.jpg",
+        "off": "30",
+        "price": 321.50,
+        "cutPrice": 276.50,
+        "rating": 4,
+        "id": "4"
+      },
+      {
+        "name": "Depura Cal 1000 Calvium Vit D Vitamin Tablets Strip Of 10",
+        "image": "https://cdn01.pharmeasy.in/dam/products_otc/I48506/depura-cal-1000-calvium-vit-d-vitamin-tablets-strip-of-10-1-1597367090.jpg",
+        "off": "50",
+        "price": 175.50,
+        "cutPrice": 276.50,
+        "rating": 4,
+        "id": "5"
+      }
+    ]
+  },
+  {
+    "name": "Devices",
+    "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/a00df5fea0c53bc9ab7093be30cd493a",
+    "off": "Upto 70",
+    "data": [
+        {
+          "name": "Prozo Plus Steam Inhaler Vaporizer (premium Quality) With 3 Months Warranty",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/W79394/prozo-plus-steam-inhaler-vaporizer-premium-quality-with-3-months-warranty-2-1606915331.jpg",
+          "off": "70",
+          "price": 276.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "6"
+        },
+        {
+          "name": "I-know Ovulation Detection Kit",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/269382/i-know-ovulation-detection-kit-3-1612421368.jpg",
+          "off": "70",
+          "price": 276.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "7"
+        },
+        {
+          "name": "I Can Pregnancy Test Kit",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/226634/i-can-pregnancy-test-kit-1-1612421368.jpg",
+          "off": "10",
+          "price": 125.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "8"
+        },
+        {
+          "name": "Veriq Glucometer Kit (with 10 Strips)",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/C64811/veriq-glucometer-kit-with-10-strips-2-1604484296.jpg",
+          "off": "30",
+          "price": 321.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "9"
+        }
+      ]
+  },
+  {
+    "name": "Nutrition & Fitness Supplements",
+    "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f6269ab4dc593128b40f021e99c2698e",
+    "off": "Upto 10",
+    "data": [
+        {
+          "name": "Liveasy Wellness Immuno Protein - Adult Protein Drink With Vitamins & Minerals - Provides Energy & Vitality - Jar Of 500 Gram",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/F54285/liveasy-wellness-immuno-protein-adult-protein-drink-with-vitamins-minerals-provides-energy-vitality-jar-of-500-gram-2-1598018537.jpg",
+          "off": "70",
+          "price": 276.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "10"
+        },
+        {
+          "name": "Protinex Vanilla Nutrition Drink Tin Of 400 G",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/144664/protinex-vanilla-nutrition-drink-tin-of-400-g-2-1613553202.jpg",
+          "off": "70",
+          "price": 276.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "11"
+        },
+        {
+          "name": "Benadon Vitamin B6 40mg Tablet 10's",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-strip-of-10s-2-1599308875.jpg",
+          "off": "10",
+          "price": 125.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "1"
+        },
+        {
+          "name": "Ensure Chocolate Nutrition Drink Refill Of 200 G",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/374843/ensure-chocolate-nutrition-drink-refill-of-200-g-2-1613117974.jpg",
+          "off": "30",
+          "price": 321.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "12"
+        }
+      ]
+  },
+  {
+    "name": "Personal Care",
+    "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/b11f3dce3da93b4bb817a04dbaa13a5a",
+    "off": "Upto 30",
+    "data": [
+        {
+          "name": "Selsun Shampoo 120ml",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/157655/selsun-shampoo-120ml-2-1603774486.jpg",
+          "off": "70",
+          "price": 276.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "13"
+        },
+        {
+          "name": "Whisper Ultra Night Sanitary Pads Xxl Plus - 6 Pads",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/T93798/whisper-ultra-night-sanitary-pads-xxl-plus-6-pads-2-1600955027.jpg",
+          "off": "70",
+          "price": 276.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "14"
+        },
+        {
+          "name": "Venusia Moisturizing Lotion - 100ml",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/209143/venusia-moisturizing-lotion-100ml-2-1597365771.jpg",
+          "off": "10",
+          "price": 125.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "15"
+        },
+        {
+          "name": "Indulekha Bringha Hair Oil Bottle Of 100 Ml",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/I07716/indulekha-bringha-hair-oil-bottle-of-100-ml-2-1613111735.jpg",
+          "off": "30",
+          "price": 321.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "16"
+        }
+      ]
+  },
+  {
+    "name": "Ayurvedic Care",
+    "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/5c97cc3d42df314790f801a4be4db409",
+    "off": "Upto 50",
+    "data": [
+        {
+          "name": "Everherb Fat Burner - Natural Herbal Blend - Accelerates Calorie Burning - Bottle Of 60",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/J29227/everherb-fat-burner-natural-herbal-blend-accelerates-calorie-burning-bottle-of-60-2-1606315847.jpg",
+          "off": "70",
+          "price": 276.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "17"
+        },
+        {
+          "name": "Liveasy Essentials Copper Bottle-ayurvedic Health Benefits -leak Proof Cap- 1000ml",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/D65636/liveasy-essentials-copper-bottle-ayurvedic-health-benefits-leak-proof-cap-1000ml-2-1613026763.jpg",
+          "off": "70",
+          "price": 276.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "18"
+        },
+        {
+          "name": "Everherb Aloe Vera Juice With Pulp - Rejuvenates Skin & Hair -1000ml Bottle",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/L79986/everherb-karela-jamun-juice-helps-maintains-healthy-sugar-levels-helps-in-weight-management-1000ml-bottle-2-1600336123.jpg",
+          "off": "10",
+          "price": 125.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "19"
+        }
+      ]
+  },
+  {
+    "name": "Baby & Mom Care",
+    "image": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/8d48add8624e3afe8adc72b803efa048",
+    "off": "Upto 60",
+    "data": [
+        {
+          "name": "Sebamed Baby Wash Extra Soft - 400ml",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/265098/sebamed-extra-soft-baby-wash-bottle-of-400-ml-2-1606505629.jpg",
+          "off": "70",
+          "price": 276.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "20"
+        },
+        {
+          "name": "Enterogermina Diarrhea Care Capsules Strip Of 4 's",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/067886/enterogermina-diarrhea-care-capsules-strip-of-4-s-2-1606505627.jpg",
+          "off": "70",
+          "price": 276.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "21"
+        },
+        {
+          "name": "Little's Soft Cleansing Baby Wipes With Aloe Vera Jojoba Oil And Vitamin E - 30 Wipes",
+          "image": "https://cdn01.pharmeasy.in/dam/products_otc/090332/himalaya-gentle-baby-shampoo-bottle-of-200-ml-2-1612781505.jpg",
+          "off": "10",
+          "price": 125.50,
+          "cutPrice": 276.50,
+          "rating": 4,
+          "id": "22"
+        }
+      ]
+  }
+]

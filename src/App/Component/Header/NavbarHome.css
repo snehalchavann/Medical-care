@@ -1,0 +1,11 @@
+.header__basketCount{
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: smaller;
+
+}
+
+.header__optionBasket{
+        display: flex;
+        align-items: center;
+}
